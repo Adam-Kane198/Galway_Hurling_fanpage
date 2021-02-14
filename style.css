@@ -49,10 +49,32 @@ li a:hover {
     margin-left: 200px;
     padding-left: 20px;
     background-image: url(hurling/hurling_6.jpg);
-    background-size: 1700px 1600px;
+    background-size: 1500px 1400px;
     background-repeat: no-repeat;
     color: white;
   }
   dl, dd {
       font-family: Georgia, 'Times New Roman', Times, serif;
   }
+
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
