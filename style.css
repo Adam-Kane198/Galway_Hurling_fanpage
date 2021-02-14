@@ -48,4 +48,9 @@ li a:hover {
   .content {
     margin-left: 200px;
     padding-left: 20px;
+    background-image: url(hurling/hurling_6);
+    background-size: 1000px 800px;
+  }
+  dl, dd {
+      font-family: Georgia, 'Times New Roman', Times, serif;
   }
