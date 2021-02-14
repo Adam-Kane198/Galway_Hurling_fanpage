@@ -56,7 +56,7 @@ li a:hover {
   dl, dd {
       font-family: Georgia, 'Times New Roman', Times, serif;
   }
-div.desc {
-    color:aqua;
-  }
-  
+a {
+    color: aqua;
+}
+
