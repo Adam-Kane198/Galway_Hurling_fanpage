@@ -27,7 +27,7 @@ ul {
   }
 li a {
     display: block;
-    color: #521b1b;
+    color: #a11f1f;
     padding: 8px 16px;
     text-decoration: none;
   }
@@ -57,6 +57,11 @@ li a:hover {
       font-family: Georgia, 'Times New Roman', Times, serif;
   }
 a {
-    color: aqua;
+    color: #3323c5;
 }
+
+ p, h1, h2, h3 ,tr ,label{
+    color:rgb#E87894;
+    Background-color:rgb#000000;
+  }
 
