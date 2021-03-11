@@ -7,9 +7,11 @@ tr:hover {
 }
 .heading {
     border-style: outset;
+    color: #24585B;
 }
 .heading-2 {
     border-style: inset;
+    color: #24585B;
 }
 
 ul {
@@ -27,7 +29,7 @@ ul {
   }
 li a {
     display: block;
-    color: #a11f1f;
+    color: #e71b1b;
     padding: 8px 16px;
     text-decoration: none;
   }
@@ -61,7 +63,20 @@ a {
 }
 
  .colour{
-    color: #B09299;
-    Background-color: #000000;
+    color: #24585B;
   }
+
+dd, dl {
+    color: #24585B;
+}
+
+th, td {
+    color: #24585B;
+}
+
+label {
+    color: #24585B
+}
+
+
 
